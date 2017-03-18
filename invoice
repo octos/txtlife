@@ -1,0 +1,24 @@
+──────────────── Invoice ───────────────
+                  #007
+John Doe
+123 Fake Street # 4321
+Anchorage, AK 99501
+
+Client :  Acme Corporation
+          666 Main St
+          Houston, TX 77077
+
+
+   DESCRIPTION │  ABC │ $/ABC │ AMOUNT
+━━━━━━━━━━━━━━━┿━━━━━━┿━━━━━━━┿━━━━━━━━━
+    File1.docx │  125 │  0.05 │    6.25$ 
+    File2.docx │ 2441 │  0.33 │  805.53$ 
+    File3.docx │ 7380 │  0.00 │    0.00$ 
+
+                        Total:   811.78$
+
+
+
+
+0        1         2         3         4
+1234567890123456789012345678901234567890
