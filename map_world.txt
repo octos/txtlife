@@ -1,16 +1,74 @@
+AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+1.......10........20..3   1.......10........20..3    1.......10........20..3
+123456789012345678901234567890123456789012345678901234567890123456789012345
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+1.......10........20..3   1.......10........20..3   1.......10........20..3
+
+123456789012345678901234567890123456789012345678901234567890123456789012345
+         1         2         3         4         5         6         7
+
+AK YT NT    NT             NL NB PE NS  GL*         SJ*
+   BC AB SK MB          ON QC VT NH ME     IS       NO SE FI 
+   WA ID MT ND MN IL WI MI NY RI MA        FO*         AX*EE  Minimal map of the world.
+   OR NV WY SD IA IN OH PA NJ CT                          LV 
+   CA UT CO NE MO KY WV VA MD DE           IM*   NL DK    LT    
+HI    AZ NM KS AR TN NC SC DC              IE GB    BE DE PL BY RU 
+            OK LA MS AL GA                 GG*JE*   LU CZ SK UA             
+               TX         FL                  FR CH AT HU MD            
+PF             MX                   V2     PT MC LI SI SR RO                         MN 
+PN             GU BZ    CU BH TQ    CY     ES AD SM HR ME BG         KV       UZ KZ CN KR
+               HO NI    JM HT DR    PR     GI*   VA BA MK     TR HY AZ    TK TJ    KO   JA
+                  CR                AA GU        IT AB GR       SR IR IN AF PK IN         HK
+                     PA             DO MQ        MT                     SR       TW
+                     CO VE          SL SV               CG BI TZ 
+                  PE GY SU FR       GR BS               CD MW MZ    
+                     BO PY BR       TO                  AO ZM ZW          
+                     CL             ??                  NA BW SZ    MG 
+                                                        ZA LS
+
+AA AA AA AA AA AA AA AA   EE EE EE EE EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA   EE EE EE EE EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA   EE EE EE EE EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA   EE EE EE EE EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA   EE EE EE EE EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA   EE EE EE EE EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA   EE EE EE EE EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+AA AA AA AA AA AA AA AA   EE EE EE EE EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
+1.......10........20..3   1.......10........20..3   1.......10........20..3
+
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
+1.......10........20..3   1.......10........20..3   1.......10........20..3
+
+123456789012345678901234567890123456789012345678901234567890123456789012345
+         1         2         3         4         5         6         7
+
+
+
 12345678901234567890123456789012345678901234567890123456789012345678901234567890
 ## Some ISO 3166-1 alpha-2 codes are not accurate.
-
-AK YT NT    NT             NL NB PE NS  GL  GB    BE DE PL LT BE RU
-   BC AB SK MB          ON QC VT NH ME  IS        FR AT CZ SK UA    
-   WA ID MT ND MN IL WI MI NY RI MA         ES AD CH LI SI HU RO MO 
-   OR NV WY SD IA IN OH PA NJ CT            PT MC IT SM CR SR BG                   MN 
-   CA UT CO NE MO KY WV VA MD DE                  VS    MN M@       KV       UZ KZ CN KR
-HI    AZ NM KS AR TN NC SC DC                     MT    AB EL    TR HY AZ    TK TJ    KO   JA
-            OK LA MS AL GA                                       SR IR AF PK IN         HK
-               TX         FL                                           IN       SR      TW
-
-
                    
 IS          NO SV FI
                   EE
