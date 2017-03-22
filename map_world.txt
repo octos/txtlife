@@ -10,7 +10,8 @@ AK YT NT    NT             NL NB PE NS    IE GB    BE DE PL LT RU               
 HI    AZ NM KS AR TN NC SC DC                GI*   VA BA MK BG ^^ AR TK AF NE BH VI  
             OK LA MS AL GA                         IT AB GR TR SY IQ IR PK BG MY LA     
             TX             FL                      MT       CY LB KU    IN    TH CA       MH 
-PF          MX                   V2          MA DZ TN LY EG    IL BH    SR    SG          MI PN          GU BZ    CU BH TQ    CY       SG EH MR ML NE TD SD JO QA    MV    ML XX PL    NA
+PF          MX                   V2          MA DZ TN LY EG    IL BH    SR    SG          MI
+PN          GU BZ    CU BH TQ    CY       SG EH MR ML NE TD SD JO QA    MV    ML XX PL    NA
             HO NI    JM HT DR    PR       GA GI BF TG CM CF SS ER SA UA       ID          TV
                CR                AA GU    GB SL CI BE GQ UG ET DJ YE OM       TL               
                   PA             DO MQ       LI GH NG GA RW KE SO                PG SO 
@@ -18,8 +19,7 @@ PF          MX                   V2          MA DZ TN LY EG    IL BH    SR    SG
                PE GY SU FR       GR BS                CD MW MZ    SH                AU   
                   BO PY BR       TO                   AO ZM ZW    CO                         
                   AR UY          ??                   NA BW SZ    MG    MA                NZ  
-                  CL                                  ZA LS                                     
-
+                  CL                                  ZA LS                                    
 
 12345678901234567890123456789012345678901234567890123456789012345678901234567890
          1         2         3         4         5         6         7         8
