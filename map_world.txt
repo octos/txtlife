@@ -1,45 +1,28 @@
-AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
-AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
-AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
-AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
-AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
-AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
-AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
-AA AA AA AA AA AA AA AA AA AA AA AA AA EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
-1.......10........20..3   1.......10........20..3    1.......10........20..3
-123456789012345678901234567890123456789012345678901234567890123456789012345
-SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
-SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
-SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
-SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
-SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
-SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
-SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
-SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
-SS SS SS SS SS SS SS SS   FF FF FF FF FF FF FF FF   UU UU UU UU UU UU UU UU
-1.......10........20..3   1.......10........20..3   1.......10........20..3
+                                          GL*IS       SJ*                                        
+                                             FO*      NO SE FI                             
+                                                         AX*EE                             
+                                             IM*   NL DK    LV                   MN          
+AK YT NT    NT             NL NB PE NS    IE GB    BE DE PL LT RU                CH KR        
+   BC AB SK MB          ON QC VT NH ME    GG*JE*   LU CZ SK BY                      KO    JA
+   WA ID MT ND MN IL WI MI NY RI MA             FR CH AT HU UA                    
+   OR NV WY SD IA IN OH PA NJ CT             PT MC LI SI SR MD    GO KZ KY       HK TW
+   CA UT CO NE MO KY WV VA MD DE             ES AD SM HR ME RO ^^ AZ UZ TJ       MC
+HI    AZ NM KS AR TN NC SC DC                GI*   VA BA MK BG ^^ AR TK AF NE BH VI  
+            OK LA MS AL GA                         IT AB GR TR SY IQ IR PK BG MY LA     
+            TX             FL                      MT       CY LB KU    IN    TH CA       MH 
+PF          MX                   V2          MA DZ TN LY EG    IL BH    SR    SG          MI PN          GU BZ    CU BH TQ    CY       SG EH MR ML NE TD SD JO QA    MV    ML XX PL    NA
+            HO NI    JM HT DR    PR       GA GI BF TG CM CF SS ER SA UA       ID          TV
+               CR                AA GU    GB SL CI BE GQ UG ET DJ YE OM       TL               
+                  PA             DO MQ       LI GH NG GA RW KE SO                PG SO 
+               EC CO VE          SL SV                CG BI TZ                   VU FJ   
+               PE GY SU FR       GR BS                CD MW MZ    SH                AU   
+                  BO PY BR       TO                   AO ZM ZW    CO                         
+                  AR UY          ??                   NA BW SZ    MG    MA                NZ  
+                  CL                                  ZA LS                                     
 
-123456789012345678901234567890123456789012345678901234567890123456789012345
-         1         2         3         4         5         6         7
 
-AK YT NT    NT             NL NB PE NS  GL*         SJ*
-   BC AB SK MB          ON QC VT NH ME     IS       NO SE FI 
-   WA ID MT ND MN IL WI MI NY RI MA        FO*         AX*EE  Minimal map of the world.
-   OR NV WY SD IA IN OH PA NJ CT                          LV 
-   CA UT CO NE MO KY WV VA MD DE           IM*   NL DK    LT    
-HI    AZ NM KS AR TN NC SC DC              IE GB    BE DE PL BY RU 
-            OK LA MS AL GA                 GG*JE*   LU CZ SK UA             
-               TX         FL                  FR CH AT HU MD            
-PF             MX                   V2     PT MC LI SI SR RO                         MN 
-PN             GU BZ    CU BH TQ    CY     ES AD SM HR ME BG         KV       UZ KZ CN KR
-               HO NI    JM HT DR    PR     GI*   VA BA MK     TR HY AZ    TK TJ    KO   JA
-                  CR                AA GU        IT AB GR       SR IR IN AF PK IN         HK
-                     PA             DO MQ        MT                     SR       TW
-                     CO VE          SL SV               CG BI TZ 
-                  PE GY SU FR       GR BS               CD MW MZ    
-                     BO PY BR       TO                  AO ZM ZW          
-                     CL             ??                  NA BW SZ    MG 
-                                                        ZA LS
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+         1         2         3         4         5         6         7         8
 
 AA AA AA AA AA AA AA AA   EE EE EE EE EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
 AA AA AA AA AA AA AA AA   EE EE EE EE EE EE EE EE   ZZ ZZ ZZ ZZ ZZ ZZ ZZ ZZ 
