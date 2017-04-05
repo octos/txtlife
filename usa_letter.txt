@@ -48,4 +48,4 @@ w	WA	Washington
 W	WI	Wisconsin
 j	WV	West Virginia
 G	WY	Wyoming
-q DC  District of Columbia
+q	DC	District of Columbia
