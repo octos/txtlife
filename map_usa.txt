@@ -1,7 +1,7 @@
 
 ## Mine, with Canada added.
 
-    AK YT NT    NT             NL NB PE NS
+    AK YT NT    NU             NL NB PE NS
        BC AB SK MB          ON QC VT NH ME
        WA ID MT ND MN IL WI MI NY RI MA
        OR NV WY SD IA IN OH PA NJ CT
