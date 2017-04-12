@@ -8,9 +8,9 @@ U	CT	Connecticut
 e	DE	Delaware
 f	FL	Florida
 g	GA	Georgia
-h	HI	Hawaii
+H	HI	Hawaii
 I	IA	Iowa
-H	ID	Idaho
+h	ID	Idaho
 l	IL	Illinois
 i	IN	Indiana
 K	KS	Kansas
