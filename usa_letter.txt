@@ -5,7 +5,7 @@ z	AZ	Arizona
 c	CA	California
 C	CO	Colorado
 U	CT	Connecticut
-E	DE	Delaware
+e	DE	Delaware
 f	FL	Florida
 g	GA	Georgia
 h	HI	Hawaii
