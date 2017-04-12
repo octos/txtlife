@@ -46,6 +46,6 @@ v	VA	Virginia
 F	VT	Vermont
 w	WA	Washington
 W	WI	Wisconsin
-j	WV	West Virginia
+J	WV	West Virginia
 G	WY	Wyoming
 q	DC	District of Columbia
