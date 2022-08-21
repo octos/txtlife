@@ -1,0 +1,17 @@
+# Cashback (up to ____$ combined by date: ______)
+  4% Gas
+  3% Restaurants
+  2% Groceries (except superstores, drugstores, costco)
+  1% Everything else
+
+- Fees: $0 Annual; 3% Foreign (of each transaction in USD)
+- Redemption: $25 minimum
+
+----
+
+# Cashback (up to ____$ combined by date: ______)
+  3% Paypal
+  2% Everything else
+
+- Fees: $0 Annual; 3% Foreign (of each transaction in USD)
+- Redemption: $0 minimum
